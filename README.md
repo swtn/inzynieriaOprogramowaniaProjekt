@@ -1,0 +1,2 @@
+# inzynieriaOprogramowaniaProjekt
+Projekt zaliczeniowy z inzynierii oprogramowania
